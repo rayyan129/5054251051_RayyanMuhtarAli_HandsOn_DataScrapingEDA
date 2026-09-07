@@ -1,0 +1,11 @@
+# Dependensi Hands-On 1 - Data Scraping & Eksplorasi Data
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+requests
+beautifulsoup4
+gensim
+jupyter
